@@ -11,7 +11,10 @@
 8Y"Ybbd8"'       Y88'       "Y888  `"Ybbd8"'   `"8bbdP"Y8  88          88      "8"       `"Ybbd8"'  88          
                  d8'                                                                                            
                 d8'                 THE WORLD'S FIRST BYTE DNA ARCHITECT                                        
-```                                                                                                                                                                                                
+```
+
+![github_rounded](https://user-images.githubusercontent.com/123972077/223856966-6408344f-b7ea-412d-b39d-db104f65ae13.png)
+
 
 <!--
 **bytedriver/bytedriver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
