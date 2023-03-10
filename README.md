@@ -15,6 +15,7 @@
 
 ![github_rounded](https://user-images.githubusercontent.com/123972077/223856966-6408344f-b7ea-412d-b39d-db104f65ae13.png)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=900&lines=Let+%40bytedriver+make+your+app+one+more+byte+faster+than+the+old+one.)](https://git.io/typing-svg)
 
 <!--
 **bytedriver/bytedriver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
