@@ -1,4 +1,4 @@
-### Hi there, I'm @bytedriver a.k.a. the byte DNA architect.👋
+### 👋 Hi there, I'm @bytedriver a.k.a. the byte DNA architect.
 
 ```
 88                                                     88              88                                       
@@ -13,9 +13,9 @@
                 d8'                 THE WORLD'S FIRST BYTE DNA ARCHITECT                                        
 ```
 
-![github_rounded](https://user-images.githubusercontent.com/123972077/223856966-6408344f-b7ea-412d-b39d-db104f65ae13.png)
+[![github_rounded](https://user-images.githubusercontent.com/123972077/223856966-6408344f-b7ea-412d-b39d-db104f65ae13.png)](https://github.com/bytedriver)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=900&lines=Let+%40bytedriver+make+your+app+one+more+byte+faster+than+the+old+one.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=2000&width=900&lines=Let+%40bytedriver+make+your+app+one+more+byte+faster+than+the+old+one.)](https://github.com/bytedriver)
 
 <!--
 **bytedriver/bytedriver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
