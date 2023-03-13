@@ -96,7 +96,7 @@ The `brand messaging:` emphasizes the importance of optimizing 💯**application
 
 <a href="https://www.linkedin.com/in/daniel-cochrane-bytedriver/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=linkedin"></a>
 
-<a href="https://calendly.com/daniel-cochrane/meet" target="_blank"><img src="https://img.shields.io/badge/Calendly-blue?style=flat-square&logo=googlemeet"></a>
+<a href="https://calendly.com/daniel-cochrane/15min" target="_blank"><img src="https://img.shields.io/badge/Calendly-blue?style=flat-square&logo=googlemeet"></a>
 
 <!--
 **bytedriver/bytedriver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
