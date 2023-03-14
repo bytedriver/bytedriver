@@ -37,16 +37,16 @@ The `brand messaging:` emphasizes the importance of optimizing 💯**application
   <video src="https://user-images.githubusercontent.com/123972077/224437816-139faf7b-808e-42a8-b596-eb31d592d4e8.mp4" width=900>
 </div>
 
-<!--
 <p align="center">
 </p>
 
 <p align="center">
   <a href="#">
-    <img src="https://user-images.githubusercontent.com/78368735/211853243-9e5ef2cf-36ff-4630-80f9-ac0e4bc6846a.gif">
+    <img src="https://user-images.githubusercontent.com/123972077/225153943-5e4605c0-ac13-40bc-9b33-bfc36dfe4d9e.gif">
   </a>
 </p>
 
+<!--
 <p align="center">
   <a href="#">
     <img width="640" src="https://github-readme-stats.vercel.app/api?username=bytedriver&show_icons=true&theme=tokyonight&count_private=true&hide_title=true">
