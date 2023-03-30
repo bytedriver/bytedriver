@@ -50,7 +50,7 @@ The `brand messaging:` emphasizes the importance of optimizing 💯**application
 
 <p align="center">
   <a href="#">
-    <img src="https://user-images.githubusercontent.com/123972077/225153943-5e4605c0-ac13-40bc-9b33-bfc36dfe4d9e.gif">
+    <img src="https://user-images.githubusercontent.com/123972077/228789624-c238cc1f-87a5-478a-bd86-d9f0287dddb1.gif">
   </a>
 </p>
 
