@@ -25,20 +25,20 @@ The `brand messaging:` emphasizes the importance of optimizing 💯**application
 
 > Overall, `✨bytedriver✨` represents a **_highly skilled and experienced_** individual developer who is ❤️‍🔥**passionate** about helping clients achieve the best possible performance from their applications.
 
-<div align="center">
-  <video src="https://user-images.githubusercontent.com/123972077/224437816-139faf7b-808e-42a8-b596-eb31d592d4e8.mp4" width=900>
-</div>
+<p align = "center">
+  <a href="#">
+    <img src="https://user-images.githubusercontent.com/123972077/223856966-6408344f-b7ea-412d-b39d-db104f65ae13.png">
+  </a>
+</p>
 
 <p align="center">
 </p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=2000&vCenter=true&width=900&height=30&lines=Let+%40bytedriver+make+your+app+one+more+byte+faster+than+the+old+one.)](#)
 
-<p align = "center">
-  <a href="#">
-    <img src="https://user-images.githubusercontent.com/123972077/223856966-6408344f-b7ea-412d-b39d-db104f65ae13.png">
-  </a>
-</p>
+<div align="center">
+  <video src="https://user-images.githubusercontent.com/123972077/224437816-139faf7b-808e-42a8-b596-eb31d592d4e8.mp4" width=900>
+</div>
 
 ### 💡 Blog
 
