@@ -42,6 +42,7 @@ The `brand messaging:` emphasizes the importance of optimizing 💯**application
 
 ### 💡 Blog
 
+Latest Posts:<br/>
 <p align="center">
   <table>
     <tr>
@@ -56,6 +57,8 @@ The `brand messaging:` emphasizes the importance of optimizing 💯**application
     </tr>
   </table>
 </p>
+
+Read more [here](https://bytedriver.github.io/blog/).
 
 ### 👟 Coding Style
 
