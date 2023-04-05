@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm @bytedriver a.k.a. the byte DNA architect.
+### 👋 Hi there, I'm @bytedriver a.k.a. the byte 🧬DNA🧬 architect.
 
 ```
 88                                                     88              88                                     
@@ -38,6 +38,23 @@ The `brand messaging:` emphasizes the importance of optimizing 💯**application
   <a href="#">
     <img src="https://user-images.githubusercontent.com/123972077/223856966-6408344f-b7ea-412d-b39d-db104f65ae13.png">
   </a>
+</p>
+
+### 💡 Blog
+
+<p align="center">
+  <table>
+    <tr>
+      <td><a href="https://bytedriver.github.io/blog/CommitSignature.html"><img src="https://user-images.githubusercontent.com/123972077/230128584-c31b1040-5e8f-4bd0-a98e-dc1d34bfc932.png"></a></td>
+      <td><a href="https://bytedriver.github.io/blog/CommitSignature.html"><img src="https://user-images.githubusercontent.com/123972077/230128584-c31b1040-5e8f-4bd0-a98e-dc1d34bfc932.png"></a></td>
+      <td><a href="https://bytedriver.github.io/blog/CommitSignature.html"><img src="https://user-images.githubusercontent.com/123972077/230128584-c31b1040-5e8f-4bd0-a98e-dc1d34bfc932.png"></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://bytedriver.github.io/blog/CommitSignature.html">Sign Github commits with your GPG key</a></td>
+      <td><a href="https://bytedriver.github.io/blog/CommitSignature.html">Sign Github commits with your GPG key</a></td>
+      <td><a href="https://bytedriver.github.io/blog/CommitSignature.html">Sign Github commits with your GPG key</a></td>
+    </tr>
+  </table>
 </p>
 
 ### 👟 Coding Style
