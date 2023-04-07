@@ -100,6 +100,12 @@ Read more [here](https://bytedriver.github.io/blog/).
   <a href="#"><img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github"></a>
 </p>
 
+<p align="center">
+  <a href="https://www.testdome.com/certificates/ecc73828ee734b40afc50cb47a6ce836">
+    <img width="640" src="https://user-images.githubusercontent.com/123972077/230638430-ea897d7f-6011-41ba-a49c-399c67e65017.png">
+  </a>
+</p>
+
 <!--
 <p align="center">
   <a href="#">
