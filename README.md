@@ -47,7 +47,7 @@ Latest Posts:<br/>
   <table>
     <tr>
       <td><a href="https://bytedriver.github.io/blog/CommitSignature.html"><img src="https://user-images.githubusercontent.com/123972077/230128584-c31b1040-5e8f-4bd0-a98e-dc1d34bfc932.png"></a></td>
-      <td><a href="https://bytedriver.github.io/blog/SwiftCertification.html"><img src="https://user-images.githubusercontent.com/123972077/230646308-d65d8b53-8e3d-42d5-9799-b14b11d5756e.png"></a></td>
+      <td><a href="https://bytedriver.github.io/blog/SwiftCertification.html"><img src="https://user-images.githubusercontent.com/123972077/230638430-ea897d7f-6011-41ba-a49c-399c67e65017.png"></a></td>
       <td><a href="https://bytedriver.github.io/blog/CommitSignature.html"><img src="https://user-images.githubusercontent.com/123972077/230128584-c31b1040-5e8f-4bd0-a98e-dc1d34bfc932.png"></a></td>
     </tr>
     <tr>
