@@ -47,12 +47,12 @@ Latest Posts:<br/>
   <table>
     <tr>
       <td><a href="https://bytedriver.github.io/blog/CommitSignature.html"><img src="https://user-images.githubusercontent.com/123972077/230128584-c31b1040-5e8f-4bd0-a98e-dc1d34bfc932.png"></a></td>
-      <td><a href="https://bytedriver.github.io/blog/CommitSignature.html"><img src="https://user-images.githubusercontent.com/123972077/230128584-c31b1040-5e8f-4bd0-a98e-dc1d34bfc932.png"></a></td>
+      <td><a href="https://bytedriver.github.io/blog/SwiftCertification.html"><img src="https://user-images.githubusercontent.com/123972077/230646308-d65d8b53-8e3d-42d5-9799-b14b11d5756e.png"></a></td>
       <td><a href="https://bytedriver.github.io/blog/CommitSignature.html"><img src="https://user-images.githubusercontent.com/123972077/230128584-c31b1040-5e8f-4bd0-a98e-dc1d34bfc932.png"></a></td>
     </tr>
     <tr>
       <td><a href="https://bytedriver.github.io/blog/CommitSignature.html">Sign Github commits with your GPG key</a></td>
-      <td><a href="https://bytedriver.github.io/blog/CommitSignature.html">Sign Github commits with your GPG key</a></td>
+      <td><a href="https://bytedriver.github.io/blog/SwiftCertification.html">Top 10% Certified Swift Skill</a></td>
       <td><a href="https://bytedriver.github.io/blog/CommitSignature.html">Sign Github commits with your GPG key</a></td>
     </tr>
   </table>
