@@ -48,12 +48,12 @@ Latest Posts:<br/>
     <tr>
       <td><a href="https://bytedriver.github.io/blog/CommitSignature.html"><img src="https://user-images.githubusercontent.com/123972077/230128584-c31b1040-5e8f-4bd0-a98e-dc1d34bfc932.png"></a></td>
       <td><a href="https://bytedriver.github.io/blog/SwiftCertification.html"><img src="https://user-images.githubusercontent.com/123972077/230638430-ea897d7f-6011-41ba-a49c-399c67e65017.png"></a></td>
-      <td><a href="https://bytedriver.github.io/blog/CommitSignature.html"><img src="https://user-images.githubusercontent.com/123972077/230128584-c31b1040-5e8f-4bd0-a98e-dc1d34bfc932.png"></a></td>
+      <td><a href="https://bytedriver.github.io/blog/SoGreatAndSmall.html"><img src="https://user-images.githubusercontent.com/123972077/231595353-973ed4c3-cf6a-4efb-8469-15b7e2098002.png"></a></td>
     </tr>
     <tr>
       <td><a href="https://bytedriver.github.io/blog/CommitSignature.html">Sign Github commits with your GPG key</a></td>
       <td><a href="https://bytedriver.github.io/blog/SwiftCertification.html">Top 10% Certified Swift Skill</a></td>
-      <td><a href="https://bytedriver.github.io/blog/CommitSignature.html">Sign Github commits with your GPG key</a></td>
+      <td><a href="https://bytedriver.github.io/blog/SoGreatAndSmall.html">“Sic Parvis Magna” - Greatness From Small Beginnings</a></td>
     </tr>
   </table>
 </p>
